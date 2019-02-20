@@ -1,0 +1,13 @@
+,comp 1,indicator1,indicator2,indicator3
+active_num_days,-0.331237501747,,,
+active_avg_count,-0.320967484355,,,
+active_sum_count,-0.346945416607,,,
+problem_sum_count,-0.251077905697,,,
+video_pause_backward_seek_sum,-0.268406850456,,,
+mt_practice_sum,-0.31441397628,,,
+mt_unit_sum,-0.363206500421,,,
+mt_online_num_day,-0.358955897761,,,
+mt_online_practice_num_day,-0.362912870222,,,
+hw_mean,-0.145274835621,,,
+qz_mean,-0.139187431239,,,
+Regression P>|t|,0.054,0.544,0.103,0.01
